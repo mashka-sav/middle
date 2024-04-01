@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int itc_second_max(long long number){
+int itc_second_max_num(long long number){
 int mx = -1;
 int mxx = -1;
 int a = 0;
